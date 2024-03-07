@@ -1,16 +1,33 @@
-### Hi there 👋
+# Jhonmar
+# Jhonmar Aldana
+## Aprendiz de Programacion
 
-<!--
-**zureth5/zureth5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aprendiendo markdown por primera vez, esto es una **prueba**, veamos como resulta
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gustan los videosjuegos, pero siento que son una **perdida de tiempo** por eso quiero aprender a programar para tener una mejor **calidad de vida**
+
+
+
+### Te Amo THOMAS
+
+* Te Amo Thomas
+* Thomas
+* Thomas}
+* Lol
+* Ajaja
+* XD
+* 
+### Prueba
+
+1. Thomas
+2. fskf
+3. 2e2r
+4. 2rsfs
+5. 3rrd
+6. jgjg
+7. 
+
+
+
+
