@@ -25,9 +25,14 @@ Me gustan los videosjuegos, pero siento que son una **perdida de tiempo** por es
 3. 2e2r
 4. 2rsfs
 5. 3rrd
-6. jgjg
-7. 
 
+|N° | Texto |
+|------|-----------------------------------|
+| 95544| Prueba-Tabla  a ver como funciona |
+| 87   | Prueba-Tabla fjj4j4               |
+| 65522| Prueba-Tabla 44r444444ddd4        |
+| 481  | Prueba-Tabla                      |
+| 3486 | Prueba-Tabla                      |
 
 
 
